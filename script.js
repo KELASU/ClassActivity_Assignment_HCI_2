@@ -1,3 +1,4 @@
+$(".text-contents").hide()
 
 
 $(".lesson-icon").mouseenter(function(){
